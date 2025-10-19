@@ -84,8 +84,7 @@ int main() {
 ## OUTPUT
 
 
-
-![alt text](image-1.png)
+ <img width="343" height="368" alt="image" src="https://github.com/user-attachments/assets/3235740b-3559-4d5f-8afc-e60da4fa3051" />
 
 
 
